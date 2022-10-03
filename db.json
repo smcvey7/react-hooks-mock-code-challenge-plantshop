@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "16.99"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": "12.15"
     },
     {
       "id": 5,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Arabian Night Dahlia",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTH7iePEP1iUX8jVENn7yhFddZ3RNg4uczL1iVo1eY3hPrRU0bDfXOGROfjBY9R9Fcq3xio4HeWA7f_f4yghg61YMqVzYcKI8kXVblW0g4&usqp=CAE",
+      "price": "15.16",
+      "id": 8
     }
   ]
 }
